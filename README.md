@@ -4,7 +4,7 @@ POMODORO is a basic pomodoro web application that lets users to focus using the 
 
 
 ## Live Preview
-To Be Added
+https://pomodoro-id.vercel.app/
 
 ## Run Locally
 
